@@ -7,4 +7,7 @@ nav:
 repo_url: https://github.com/timotheehornek/documentation-tools-repository
 
 site_author: Timothée Hornek
-#edit_uri: tree/master/docs/.
+edit_uri: edit/master/docs/.
+
+theme:
+  name: material
